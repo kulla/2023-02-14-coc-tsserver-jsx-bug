@@ -1,0 +1,11 @@
+{
+  "name": "2023-02-14-coc-tsserver-jsx-bug",
+  "version": "0.0.0",
+  "description": "Minimal example of a bug in coc-tsserver to not recognize local jsx setting with tsconfig",
+  "main": "index.ts",
+  "repository": "https://github.com/kulla/2023-02-14-coc-tsserver-jsx-bug",
+  "author": "Stephan Kulla <git.mail@kulla.me>",
+  "license": "CC0",
+  "private": true,
+  "packageManager": "yarn@3.4.1"
+}
